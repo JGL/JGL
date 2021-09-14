@@ -7,14 +7,6 @@ I am an interaction designer and lecturer. I research solar-powered computing, t
 
 Ever since I saw the Wizard of Oz I've been interested in the mechanisms or systems that enable stories to be told or society to function. I am interested in making work that allows for real-time interaction between people, places, stories and objects through the use of technology.
 
-Since 2019 I've been the Interactive Creative Director at Universal Everything.
-
-Since 2019 I've been the lead lecturer on the Diploma in Creative Computing at the Creative Computing Institute, Camberwell, University of the Arts London.
-
-Since 2017 I've been a mentor at Arts Emergency, which aims to increase access to the arts and humanities to young people from disadvantaged backgrounds.
-
-Since 2015 I've been a member of the faculty of Year Here as well as a mentor. Year Here aims to help recent graduates build smart solutions to entrenched social problems.
-
 If you've got a joke, poem, recipe, spell or otherwise, get in touch!
 
 - 🔭 I’m currently working on teaching creative computing
