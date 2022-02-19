@@ -9,7 +9,7 @@ Ever since I saw the Wizard of Oz I've been interested in the mechanisms or syst
 
 If you've got a joke, poem, recipe, spell or otherwise, get in touch!
 
-- 🔭 I’m currently working on teaching creative computing
+- 🔭 I’m currently teaching creative computing at the Creative Computing Institute in London
 - 🌱 I’m currently learning Swift and Blender
 - 👯 I’m looking to collaborate on creating mesh based solar powered computers
 - 🤔 I’m looking for help with creating global scale augmented reality sculptures
