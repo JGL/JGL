@@ -3,7 +3,7 @@
 <!--
 **JGL/JGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am an interaction designer and lecturer. I research solar-powered computing, the history of weaving and global scale augmented reality sculpture.
+I am a consultant on interactive experiences, lecturer and artist. I research solar-powered computing, the history of weaving and global scale augmented reality sculpture.
 
 Ever since I saw the Wizard of Oz I've been interested in the mechanisms or systems that enable stories to be told or society to function. I am interested in making work that allows for real-time interaction between people, places, stories and objects through the use of technology.
 
