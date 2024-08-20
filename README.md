@@ -20,7 +20,7 @@ I am currently researching solar-powered computing, the history of weaving and g
 
 If you've got a joke, poem, recipe, spell or otherwise, get in touch:
 
-- 🔭 I've been the Course Leader of the [UAL Diploma in Apple Development 🍎](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development) at the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, University of the Arts London. [Find out more about the course in this interview](https://www.arts.ac.uk/about-ual/press-office/stories/ual-diploma-in-apple-development-apply-for-sept-2022).
+- 🔭 I'm the Course Leader of the [UAL Diploma in Apple Development 🍎](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development) at the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, University of the Arts London. [Find out more about the course in this interview](https://www.arts.ac.uk/about-ual/press-office/stories/ual-diploma-in-apple-development-apply-for-sept-2022).
 - 🌱 I’m currently learning xrOS and Blender
 - 👯 I’m looking to collaborate on creating mesh based solar powered computers
 - 🤔 I’m looking for help with creating global scale augmented reality sculptures
