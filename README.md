@@ -3,9 +3,9 @@
 <!--
 **JGL/JGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a consultant, course leader and artist.
+I am a designer, course leader and artist.
 
-As a consultant, I curate context and design constraints for projects.
+As a designer, I curate context and design constraints for projects.
 
 1. Curating context: I produce reference material, similar projects and other content that helps put a potential or current project into a wider context.
 2. Designing constraints: in order to help a project progress, I create limitations that allow a team to concentrate on a smaller set of challenges and move forward, learning from the process.
